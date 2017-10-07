@@ -5,3 +5,4 @@ Test 4.
 Test 5 - merge conflict solved.
 Test 66 - test for git revert.
 Test 6.
+Test 7.
